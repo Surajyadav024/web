@@ -1,0 +1,52 @@
+#ben {
+  display: block;
+  position: relative;
+  text-align: center;
+  margin-top: 7%;
+  font-size: 28px;
+  font-family: proxima-nova, sans-serif;
+}
+#mask {
+  position: relative;
+  display: inline-block;
+  left: 17%;
+  margin-top: 3%;
+}
+.lead {
+  font-family: proxima-nova-condensed, sans-serif;
+  margin: 25px 0 30px 228px;
+  display: block;
+  position: relative;
+  font-size: 26px;
+  width: 72%;
+  letter-spacing: 0.2rem;
+}
+.rrr {
+  position: relative;
+  letter-spacing: 0.5px;
+  font-size: 24px;
+  margin: 0px;
+  left: 15%;
+  height: 107px;
+  width: 58%;
+  font-family: proxima-nova, sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.cta {
+  border: 10px solid #0093d5;
+  display: inline-block;
+  margin: 20px 0;
+  padding: 20px;
+  font-size: 22px;
+  max-width: 100%;
+  word-wrap: break-word;
+  margin-top: 7%;
+  margin-left: 15%;
+}
+#kkk {
+  display: block;
+  position: relative;
+  height: 236px;
+  left: 16%;
+  top: -1%;
+}
